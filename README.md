@@ -52,12 +52,5 @@ Principais Aprendizados
 
 ----------------//----------------
 
-## 🚀 Próximos Passos
-- Análise de clientes
-- Métricas de retenção
-- Novos filtros e visuais
-
-----------------//----------------
-
 📬 **Autor:** Gustavo Silva Reis  
 🔗 **LinkedIn:** https://www.linkedin.com/in/gsreisit
