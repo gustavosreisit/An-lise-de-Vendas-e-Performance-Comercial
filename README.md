@@ -39,6 +39,8 @@ O dashboard apresenta:
 - Cartões com KPIs principais
 - Ranking de produtos
 - Segmentador de dados por região
+- <img width="993" height="541" alt="image" src="https://github.com/user-attachments/assets/d242dea1-4f76-47bd-8a1e-dfe59f94497b" />
+
 
 ----------------//----------------
 
