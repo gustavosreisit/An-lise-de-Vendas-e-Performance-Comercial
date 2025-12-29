@@ -1,4 +1,5 @@
 Projeto – Análise de Vendas (SQL + Power BI)
+
 ----------------//----------------
 Descrição
 Este projeto tem como objetivo analisar dados de vendas e gerar insights por meio de consultas SQL e visualização interativa no Power BI.
